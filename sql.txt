@@ -2,7 +2,5 @@ create table Registrations(id number(25),name varchar(25),gender varchar(20),con
 
 
 
-
-
 Security name :- dattu
 Security Password :- dattu123
