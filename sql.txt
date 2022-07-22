@@ -1,0 +1,1 @@
+create table Registrations(id number(25),name varchar(25),gender varchar(20),contact varchar(25),login varchar(25),password varchar(25));
